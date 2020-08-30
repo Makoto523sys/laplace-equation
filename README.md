@@ -36,5 +36,5 @@ SOR法を行う上で最も注意するべきことは<img src="https://latex.co
 
 <img src="https://latex.codecogs.com/gif.latex?\omega"/>の値は次のように決定するとよい.
 
-<img src="https://latex.codecogs.com/gif.latex?\omega"/>
+<img src="https://latex.codecogs.com/gif.latex?\omega&space;=&space;\frac{2}{1&space;&plus;&space;\sqrt{1&space;-&space;(\mu/2)^2}}"/>
 但し,<img src="https://latex.codecogs.com/gif.latex?\mu&space;=&space;\cos{\frac{\pi}{\mathrm{nx}}}&space;&plus;&space;\cos{\frac{\pi}{\mathrm{ny}}}"/>とする.
